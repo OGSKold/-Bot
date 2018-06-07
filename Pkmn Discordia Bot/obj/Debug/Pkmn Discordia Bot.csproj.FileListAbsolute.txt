@@ -1,0 +1,53 @@
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Pkmn Discordia Bot.exe.config
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Pkmn Discordia Bot.exe
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Pkmn Discordia Bot.pdb
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\obj\Debug\Pkmn Discordia Bot.csprojAssemblyReference.cache
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\obj\Debug\Pkmn Discordia Bot.csproj.CoreCompileInputs.cache
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\obj\Debug\Pkmn Discordia Bot.exe
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\obj\Debug\Pkmn Discordia Bot.pdb
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\SystemLang\alerts.json
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Newtonsoft.Json.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Newtonsoft.Json.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\obj\Debug\Pkmn Discordia Bot.csproj.CopyComplete
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Commands.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Core.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Rest.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Rpc.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Webhook.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.WebSocket.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.AppContext.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Collections.Immutable.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Console.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Globalization.Calendars.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Interactive.Async.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.IO.Compression.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.IO.FileSystem.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Net.Http.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Net.Sockets.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Commands.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Core.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Rest.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Rpc.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Webhook.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.WebSocket.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Collections.Immutable.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\System.Interactive.Async.xml
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\obj\Debug\Pkmn Discordia Bot.exe.config
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Providers.WS4Net.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\WebSocket4Net.dll
+D:\Bots\Pkmn Discordia Bot\Pkmn Discordia Bot\bin\Debug\Discord.Net.Providers.WS4Net.xml
